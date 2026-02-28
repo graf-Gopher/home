@@ -1,8 +1,26 @@
-# Public Repos
+# Projects
+
+1. Birdmemeber ([Mobile]() & [Backend](https://github.com/graf-Gopher/birdmember.node))
+2. Applic ([Site](https://github.com/graf-Gopher/applic.wp))
+3. E-Toc
+4. E-Wac
+5. USAid
+6. UK Accounting
+7. Box Catering
+8. Laundy
+9. Car Rent
+10. V.Vlasova
+11. Academy Dtek
+12. Garage Shedule
+13. ToDo
+
+# Repositories
+
+## Public Repos
 
 1. [Widget - Addon (Javascript)](https://github.com/graf-Gopher/widget.html) - Simple button with social, phone & chat integrations (Odoo chat, AI chat - supports) by [BoxCatering](https://box-catering.ua).
 
-# Private Repos
+## Private Repos
 
 1. [Birdmemeber - Server (Node.JS / Typescript)](https://github.com/graf-Gopher/birdmember.node) - Backend for flight crew communication application by Birdmember.
 2. [Applic - Theme (WP Theme / PHP)](https://github.com/graf-Gopher/applic.wp) - Wordpress theme for "[Applic LLC](https://applic.com.ua)" website.
