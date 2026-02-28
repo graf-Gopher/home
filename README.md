@@ -5,7 +5,7 @@
 # Private Repos
 
 1. [Birdmemeber - Server (Node.JS / Typescript)](https://github.com/graf-Gopher/birdmember.node) - Backend for flight crew communication application by Birdmember.
-2. [Applic - Theme (WP Theme / PHP)(https://github.com/graf-Gopher/applic.wp) - Wordpress theme for "[Applic LLC](https://applic.com.ua)" website.
+2. [Applic - Theme (WP Theme / PHP)](https://github.com/graf-Gopher/applic.wp) - Wordpress theme for "[Applic LLC](https://applic.com.ua)" website.
 3. [E-Toc - Mobile (Ionic + Angular / Typescript)](https://github.com/graf-Gopher/e_toc.ionic) - Mobile application for dillers service by Toyota Ukraine.
 4. [E-Wac - Web (Angular / Typescript)](https://github.com/graf-Gopher/toyota_cr.angular) - Web app for administration circular review app (E-Wac) & dillers service app (E-TOC) by Toyota Ukraine.
 5. [USAid - Site (Angular / Typescript)](https://github.com/graf-Gopher/usaid_kimonix.angular) - Web site + admin for creating forms with autofill documen (print, sign, court mail - supports) by Kimonix/USAid.
